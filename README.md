@@ -1,5 +1,7 @@
 # DevEnv
 
+wsl --install --no-distribution
+
 
 Install Fedora in WSL
 
