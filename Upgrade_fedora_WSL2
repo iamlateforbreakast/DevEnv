@@ -1,0 +1,5 @@
+sdo dnf updte --refresh
+sudo dnf clean all
+
+sudo dnf install dnf-plugin-system-upgrade
+sudo dnf system-upgrade download --releaseve=40
