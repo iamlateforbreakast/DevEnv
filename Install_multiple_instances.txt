@@ -1,0 +1,7 @@
+wsl --install -d <distribution name>
+
+wsl --export <distribution name> <export file name>
+
+wsl --import <new distribution name> <install location> <export file name>
+
+wsl -d <new distribution name>
